@@ -1,5 +1,3 @@
-codigo d:# 
-//Solicitar datos 
 
 monto_compra = float(input("Ingrese el monto total de la compra: $"))
 es_vip = input("¿Es miembro VIP? (si/no): ") == "si"
